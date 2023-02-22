@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vercel/analytics": "^0.1.10",
     "openai": "^3.1.0",
     "openapi": "^1.0.1",
     "react": "^18.2.0",
