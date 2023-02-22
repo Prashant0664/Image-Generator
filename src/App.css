@@ -21,13 +21,15 @@
   display:flex;
   flex-direction: column;
   /* border-radius: 30px; */
-  background-color:rgb(59,59,59);
+  /* background-color:rgb(59,59,59); */
 }
 .input{
+  border-radius:8px 8px 0px 0px;
   padding:6px;
   transition: 400ms;
   border-color: #1a1a1a;
   color:aqua;
+  background-color: rgb(59,59,59);
 }
 .input:hover{
   transition: 400ms;
@@ -56,7 +58,7 @@
   letter-spacing: 20%;
   width:100%;
   transition: 400ms;
-  border-radius: 0px 0px 5px 5px;
+  border-radius: 0px 0px 8px 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
   font-size: 0.9em;
@@ -100,4 +102,5 @@
 .ppp{
   margin-bottom:1px;
   color:rgb(117, 186, 255);
+  
 }
