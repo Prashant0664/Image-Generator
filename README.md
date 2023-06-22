@@ -1,3 +1,5 @@
+This project is under some maintainance due to change in an api credential, you can choose your own api credential and this project will work great
+<br/>
 # Image Generator Using OpenAI API
 <hr>
 ## Demo
